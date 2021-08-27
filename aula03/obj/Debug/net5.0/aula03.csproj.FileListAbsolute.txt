@@ -1,0 +1,16 @@
+C:\Users\softadm2\Desktop\CursoC#\aula03\bin\Debug\net5.0\aula03.exe
+C:\Users\softadm2\Desktop\CursoC#\aula03\bin\Debug\net5.0\aula03.deps.json
+C:\Users\softadm2\Desktop\CursoC#\aula03\bin\Debug\net5.0\aula03.runtimeconfig.json
+C:\Users\softadm2\Desktop\CursoC#\aula03\bin\Debug\net5.0\aula03.runtimeconfig.dev.json
+C:\Users\softadm2\Desktop\CursoC#\aula03\bin\Debug\net5.0\aula03.dll
+C:\Users\softadm2\Desktop\CursoC#\aula03\bin\Debug\net5.0\ref\aula03.dll
+C:\Users\softadm2\Desktop\CursoC#\aula03\bin\Debug\net5.0\aula03.pdb
+C:\Users\softadm2\Desktop\CursoC#\aula03\obj\Debug\net5.0\aula03.csproj.AssemblyReference.cache
+C:\Users\softadm2\Desktop\CursoC#\aula03\obj\Debug\net5.0\aula03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\softadm2\Desktop\CursoC#\aula03\obj\Debug\net5.0\aula03.AssemblyInfoInputs.cache
+C:\Users\softadm2\Desktop\CursoC#\aula03\obj\Debug\net5.0\aula03.AssemblyInfo.cs
+C:\Users\softadm2\Desktop\CursoC#\aula03\obj\Debug\net5.0\aula03.csproj.CoreCompileInputs.cache
+C:\Users\softadm2\Desktop\CursoC#\aula03\obj\Debug\net5.0\aula03.dll
+C:\Users\softadm2\Desktop\CursoC#\aula03\obj\Debug\net5.0\ref\aula03.dll
+C:\Users\softadm2\Desktop\CursoC#\aula03\obj\Debug\net5.0\aula03.pdb
+C:\Users\softadm2\Desktop\CursoC#\aula03\obj\Debug\net5.0\aula03.genruntimeconfig.cache

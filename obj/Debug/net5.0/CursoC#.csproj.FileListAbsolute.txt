@@ -1,0 +1,16 @@
+C:\Users\softadm2\Desktop\CursoC#\bin\Debug\net5.0\CursoC#.exe
+C:\Users\softadm2\Desktop\CursoC#\bin\Debug\net5.0\CursoC#.deps.json
+C:\Users\softadm2\Desktop\CursoC#\bin\Debug\net5.0\CursoC#.runtimeconfig.json
+C:\Users\softadm2\Desktop\CursoC#\bin\Debug\net5.0\CursoC#.runtimeconfig.dev.json
+C:\Users\softadm2\Desktop\CursoC#\bin\Debug\net5.0\CursoC#.dll
+C:\Users\softadm2\Desktop\CursoC#\bin\Debug\net5.0\ref\CursoC#.dll
+C:\Users\softadm2\Desktop\CursoC#\bin\Debug\net5.0\CursoC#.pdb
+C:\Users\softadm2\Desktop\CursoC#\obj\Debug\net5.0\CursoC#.csproj.AssemblyReference.cache
+C:\Users\softadm2\Desktop\CursoC#\obj\Debug\net5.0\CursoC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\softadm2\Desktop\CursoC#\obj\Debug\net5.0\CursoC#.AssemblyInfoInputs.cache
+C:\Users\softadm2\Desktop\CursoC#\obj\Debug\net5.0\CursoC#.AssemblyInfo.cs
+C:\Users\softadm2\Desktop\CursoC#\obj\Debug\net5.0\CursoC#.csproj.CoreCompileInputs.cache
+C:\Users\softadm2\Desktop\CursoC#\obj\Debug\net5.0\CursoC#.dll
+C:\Users\softadm2\Desktop\CursoC#\obj\Debug\net5.0\ref\CursoC#.dll
+C:\Users\softadm2\Desktop\CursoC#\obj\Debug\net5.0\CursoC#.pdb
+C:\Users\softadm2\Desktop\CursoC#\obj\Debug\net5.0\CursoC#.genruntimeconfig.cache
